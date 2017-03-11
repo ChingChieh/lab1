@@ -1,0 +1,47 @@
+Script started on 2017年03月11日 (週六) 10時57分47秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m ls
+[0m[01;34mbuild-example-Desktop_Qt_5_7_0_GCC_64bit-Debug[0m  [01;34mexample[0m      [01;34mPublic[0m
+[01;34mDesktop[0m                                         lab1.script  [01;34mQt5.7.0[0m
+[01;34mDocuments[0m                                       [01;34mMusic[0m        [01;34mTemplates[0m
+[01;34mDownloads[0m                                       [01;34mPictures[0m     [01;34mVideos[0m
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m wh9[Ko am i[K[K[K[K[Kqmi[K[K[Kami;psw[C^?[K[K[Kwd
+pd2vm
+/home/pd2vm
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git congif -l
+git: 'congif' is not a git command. See 'git --help'.
+
+Did you mean this?
+	config
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git congif -l[1P -l[1P -l[1P -lf -li -lg -l
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git cinfig[K[K[K[K[Konfig --global[K[Kle[K[Kal user.email "garnett.huang@gmail.c om"
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git config --global user.email "garnett.huang@gmail.coom"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C "garnett.huang@gmail.com[1P"[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C "garnett.huang@gmail.com"[K[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C "garnett.huang@gmail.com" [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P "garnett.huang@gmail.com"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P "garnett.huang@gmail.com"n "garnett.huang@gmail.com"a "garnett.huang@gmail.com" [A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cm "garnett.huang@gmail.com""[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ce "garnett.huang@gmail.com"[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[1P"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"n"g"[C
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git config --global user.name "garnett.huang"email "garnett.huang@gmail.coom"[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m [C[C[C[C[C[C[C[C[C[C[C[Cl[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+user.email=garnett.huang@gmail.com
+user.name=garnett.huang
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m [K[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone http://github. com/QuickHand97/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 6, done.[K
+remote: Compressing objects:  20% (1/5)   [Kremote: Compressing objects:  40% (2/5)   [Kremote: Compressing objects:  60% (3/5)   [Kremote: Compressing objects:  80% (4/5)   [Kremote: Compressing objects: 100% (5/5)   [Kremote: Compressing objects: 100% (5/5), done.[K
+remote: Total 6 (delta 0), reused 5 (delta 0), pack-reused 0[K
+Unpacking objects:  16% (1/6)   Unpacking objects:  33% (2/6)   Unpacking objects:  50% (3/6)   Unpacking objects:  66% (4/6)   Unpacking objects:  83% (5/6)   Unpacking objects: 100% (6/6)   Unpacking objects: 100% (6/6), done.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m ls
+[0m[01;34mbuild-example-Desktop_Qt_5_7_0_GCC_64bit-Debug[0m
+[01;34mDesktop[0m
+[01;34mDocuments[0m
+[01;34mDownloads[0m
+[01;34mexample[0m
+[01;34mlab1[0m
+lab1.script
+[01;34mMusic[0m
+[01;34mPictures[0m
+[01;34mPublic[0m
+[01;34mQt5.7.0[0m
+[01;34mTemplates[0m
+[01;34mVideos[0m
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m 
+Script done on 2017年03月11日 (週六) 11時04分15秒
